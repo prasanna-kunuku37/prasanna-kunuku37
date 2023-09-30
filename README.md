@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on cisco
-- 📫 How to reach me through instagram
+- 📫 How to reach me t
 
 <!---
 prasanna-kunuku37/prasanna-kunuku37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
