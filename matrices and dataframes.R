@@ -3,7 +3,7 @@ print(my_list)
 my_matrix <- matrix(1:6, nrow = 2, ncol = 3, byrow = TRUE)
 print(my_matrix)
 matrix2 <- matrix(7:12, nrow = 2, ncol = 3, byrow = TRUE)
-result_addition <- my_matrix + matrix2
+result_addition <- my_mantrix + matrix2
 print(result_addition)
 my_data_frame <- data.frame(
   name = c("Alice", "Bob", "Charlie"),
