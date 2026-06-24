@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @prasanna-kunuku37
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on cisco
-- 📫 How to reach me t
 
-<!---
-prasanna-kunuku37/prasanna-kunuku37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Final-year B.Tech IT student passionate about AI, Machine Learning, NLP, and Full-Stack Development. Experienced in building AI-driven applications, including Transformer-based sentiment analysis systems and intelligent chatbots. Skilled in Python, Java, React.js, Flask, AWS, and Generative AI, with a strong focus on solving real-world problems through technology.
